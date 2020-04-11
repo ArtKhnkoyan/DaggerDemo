@@ -3,8 +3,8 @@ package com.example.daggerdemo.dagger2.module;
 
 import android.content.Context;
 
-import com.example.daggerdemo.MainActivity;
-import com.example.daggerdemo.dagger2.adapter.AdapterList;
+import com.example.daggerdemo.ui.MainActivity;
+import com.example.daggerdemo.ui.adapter.AdapterList;
 import com.example.daggerdemo.dagger2.custom_scope.ListScope;
 
 import java.util.List;

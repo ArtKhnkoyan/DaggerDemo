@@ -1,4 +1,4 @@
-package com.example.daggerdemo.dagger2.adapter;
+package com.example.daggerdemo.ui.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

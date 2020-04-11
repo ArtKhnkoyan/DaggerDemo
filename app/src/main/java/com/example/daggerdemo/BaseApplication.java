@@ -5,6 +5,7 @@ import android.app.Application;
 import com.example.daggerdemo.dagger2.component.AppComponent;
 import com.example.daggerdemo.dagger2.component.ListComponent;
 import com.example.daggerdemo.dagger2.module.ListModule;
+import com.example.daggerdemo.ui.MainActivity;
 
 public class BaseApplication extends Application {
     private static BaseApplication instance;

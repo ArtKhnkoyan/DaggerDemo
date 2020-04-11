@@ -1,6 +1,6 @@
 package com.example.daggerdemo.dagger2.component;
 
-import com.example.daggerdemo.MainActivity;
+import com.example.daggerdemo.ui.MainActivity;
 import com.example.daggerdemo.dagger2.custom_scope.ListScope;
 import com.example.daggerdemo.dagger2.module.ListModule;
 

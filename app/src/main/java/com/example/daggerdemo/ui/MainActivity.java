@@ -1,8 +1,11 @@
-package com.example.daggerdemo;
+package com.example.daggerdemo.ui;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.daggerdemo.BaseApplication;
+import com.example.daggerdemo.R;
 
 import java.util.Arrays;
 import java.util.List;
